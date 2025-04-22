@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Go to my gh-page - https://isthekris.github.io/
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
+
+![](https://komarev.com/ghpvc/?username=IsTheKris&style=flat-square)
