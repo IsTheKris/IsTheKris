@@ -18,3 +18,5 @@ Go to my gh-page - https://isthekris.github.io/
 
 
 ![](https://komarev.com/ghpvc/?username=IsTheKris&style=flat-square)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsTheKris&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
