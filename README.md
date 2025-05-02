@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Go to my gh-page] - https://isthekris.github.io/
-[Go to my Tableau Public profile](https://public.tableau.com/app/profile/krishnakumar.k.s)
+Go to my gh-page - https://isthekris.github.io/
+
+Go to my Tableau Public profile - https://public.tableau.com/app/profile/krishnakumar.k.s
 
 
 ![](https://komarev.com/ghpvc/?username=IsTheKris&style=flat-square)
