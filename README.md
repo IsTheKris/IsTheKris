@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My gh-page - https://isthekris.github.io/
+My gh-page - https://isthekris.github.io/about
 
 My Tableau Public profile - https://public.tableau.com/app/profile/krishnakumar.k.s
 
