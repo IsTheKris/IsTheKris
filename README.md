@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My gh-page - https://isthekris.github.io/about
 
-My Tableau Public profile - https://public.tableau.com/app/profile/krishnakumar.k.s
+My Tableau Public profile - https://public.tableau.com/app/profile/kumrx
 
 
 ![](https://komarev.com/ghpvc/?username=IsTheKris&style=flat-square)
